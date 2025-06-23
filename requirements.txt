@@ -1,3 +1,9 @@
+
 streamlit
 openai
 python-dotenv
+speech_recognition
+pyttsx3
+pyaudio
+requests
+pandas
