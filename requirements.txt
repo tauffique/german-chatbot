@@ -2,8 +2,7 @@
 streamlit
 openai
 python-dotenv
-speech_recognition
-pyttsx3
-pyaudio
+SpeechRecognition
+gTTS
 requests
 pandas
