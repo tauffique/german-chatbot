@@ -4,5 +4,7 @@ openai
 python-dotenv
 SpeechRecognition
 gTTS
+deep-translator
+plotly
 requests
 pandas
